@@ -2204,6 +2204,7 @@ video {
     padding: 20px 40px;
     display: block;
     width: 100%;
+    text-transform: none;
 }
 
 .eskimo-menu-ul > li {
@@ -2221,6 +2222,7 @@ video {
     text-decoration: none;
     color: #333;
     padding: 0;
+    text-transform: none;
 }
 
 .eskimo-menu-ul li a:hover,
@@ -2469,7 +2471,7 @@ video {
 #eskimo-main-container {
     position: relative;
     display: block;
-    padding: 100px 95px;
+    padding: 50px 45px;
     overflow-x: hidden;
 }
 
@@ -4116,6 +4118,7 @@ p.form-submit {
     }
     .eskimo-menu-ul li {
         padding: 15px 40px;
+        text-transform: none;
     }
 }
 
@@ -4350,6 +4353,7 @@ p.form-submit {
     }
     .eskimo-menu-ul li {
         padding: 20px;
+        text-transform: none;
     }
     #eskimo-social-inner {
         padding: 20px;
