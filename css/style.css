@@ -2165,6 +2165,17 @@ video {
     padding: 0;
     max-width: 100px;
     margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#eskimo-sidebar .eskimo-logo1 {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 220px;
+    margin-bottom: 10px;
 }
 
 /* ================= MAIN MENU ================== */
